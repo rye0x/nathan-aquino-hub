@@ -1,4 +1,4 @@
-- 👋 Hi! I'm Nathan from the Manila, Philippines
+- 👋 Hi! I'm Nathan from Manila, Philippines
 - 👀 I’m interested in learning data science, machine learning and cloud engineering.
 - 🌱 I’m currently studying Computer Science at University of the Philippines
 - 🥲 I'm slow learner but I am very tenacious.
