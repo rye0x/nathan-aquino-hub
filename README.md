@@ -1,10 +1,9 @@
-- 👋 hello
-- 📑 currently studying Computer Science at the University of the Philippines
-- 👌 I'm looking for a study buddy or a friend that I can hang out with.
+# 🚀 GitHub Stats & Activity
 
+![Natnat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
-<!---
-nathan-aquino-hub/nathan-aquino-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GitHub Streak](https://streak-stats.demolab.com/?user=your-github-username&theme=radical&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
