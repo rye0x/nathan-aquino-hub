@@ -1,7 +1,6 @@
 # 🚀 GitHub Stats & Activity 🖥️💚
 
 ```lua
--- Rye0x's GitHub Profile (Inspired by Vim)
 print("Welcome to my GitHub! 🚀")
 ```
 
