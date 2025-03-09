@@ -1,5 +1,3 @@
-# 🚀 GitHub Stats & Activity 🖥️💚
-
 ```lua
 print("Welcome to my GitHub! 🚀")
 ```
